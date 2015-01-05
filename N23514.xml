@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:031147_0000_0FEAE27F383920A0"/>
-            <pb facs="tcp:031147_0001_0FEAE280BB457640" rendition="simple:additions"/>
+            <pb facs="unknown:031147_0000_0FEAE27F383920A0"/>
+            <pb facs="unknown:031147_0001_0FEAE280BB457640"
+                rendition="simple:additions"/>
             <p>
                <figure>
                   <head>VIDE AUDE TACE. 5776</head>
@@ -126,7 +127,8 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:031147_0002_0FEAE287A2CF7408" rendition="simple:additions"/>
+            <pb facs="unknown:031147_0002_0FEAE287A2CF7408"
+                rendition="simple:additions"/>
             <p>JACHIN AND BOAZ; OR, AN AUTHENTIC KEY TO THE DOOR OF FREE-MASONRY, Both ANCIENT and MODERN. Calculated not only for the Inſtruction of every New made MASON; but alſo for the Information of all who intend to become BRETHREN.</p>
             <list>
                <head>CONTAINING,</head>
@@ -150,18 +152,18 @@
             <p>NEW-YORK: PRINTED BY TIEBOUT &amp; O'BRIEN, FOR EVERT DUYCKINCK &amp; Co. BOOKSELLERS AND STATIONERS, NO. 110, PEARL-STREET. M, DCC, XCVI.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:031147_0003_0FEAE289717A4A50"/>
+            <pb facs="unknown:031147_0003_0FEAE289717A4A50"/>
             <head>TO ALL FREE-MASONS.</head>
             <p>THE Author of the following pages has the ho<g ref="char:EOLhyphen"/>nour of being well reſpected in moſt of the Lodges of reputation in this metropolis, and has been a frequent viſitor at the Queen's Arms, St. Paul's Church-yard; the Globe, in Fleet-ſtreet; the Jeru<g ref="char:EOLhyphen"/>ſalem, at Clerkenwell; Half-moon, Cheapſide; Crown and Anchor, in the Strand; Salutation, Grey-Friars; and ſeveral others of leſs note.</p>
             <p>An earneſt deſire of becoming a perfect maſter of MASONRY, and the ſucceſs he met with in his firſt attempt, has rendered him capable of revealing thoſe myſteries to the world, which, till now, have been kept ſecret as the grave.</p>
             <p>He acquired his knowledge at firſt from ſome looſe papers belonging to a merchant to whom he was nearly related, who had been a member of the Queen's Arms, St. Paul's Church-yard. This rela<g ref="char:EOLhyphen"/>tion dying about ten years ago, the Editor became poſſeſſed of his effects; and on looking over his papers, among others he found ſome memorandums or remarks on MASONRY, which excited his curioſity ſo far, that he reſolved on accompliſhing his ſcheme, without going through the ceremonies required by the ſociety.</p>
             <p>The remarks of his friend above-mentioned fur<g ref="char:EOLhyphen"/>niſhed hints ſufficient to make a trial on an intimate acquaintance, a FREE MASON, who readily gave him the Sign in the manner he expected. After a more narrow inſpection on the part of his friend, ſuch as, where he was made, and when, &amp;c. &amp;c. (to all
-<pb facs="tcp:031147_0004_0FEAE28AF6980B30"/>which he anſwered with great readineſs) he received an invitation to ſpend an evening at a tavern in the Strand, with ſeveral acquaintances. Elated by this ſucceſs, he boldly advanced with his company; all of whom belonged to the Lodge, and were well known by the TYLER at the door. After the uſual ceremony, in which he gave full ſatisfaction, he was admitted and took his ſeat. That night he ſaw two MAKINGS <note n="*" place="bottom">MAKING, the term uſed in the circular letters to the members of the Ledge, acquainting them that new members are to be admitted the next Ledge night.</note>, and came off full of ſpirits.</p>
+<pb facs="unknown:031147_0004_0FEAE28AF6980B30"/>which he anſwered with great readineſs) he received an invitation to ſpend an evening at a tavern in the Strand, with ſeveral acquaintances. Elated by this ſucceſs, he boldly advanced with his company; all of whom belonged to the Lodge, and were well known by the TYLER at the door. After the uſual ceremony, in which he gave full ſatisfaction, he was admitted and took his ſeat. That night he ſaw two MAKINGS <note n="*" place="bottom">MAKING, the term uſed in the circular letters to the members of the Ledge, acquainting them that new members are to be admitted the next Ledge night.</note>, and came off full of ſpirits.</p>
             <p>Soon after he went to another Lodge, where he diſtinguiſhed himſelf greatly in anſwering the queſ<g ref="char:EOLhyphen"/>tions propoſed by the Maſter, which he acquired from his friend's manuſcripts of the ENTERED AP<g ref="char:EOLhyphen"/>PRENTICE, and FELLOW-CRAFT's Lectures.</p>
             <p>His regard to the ſociety, and reſpect to the pub<g ref="char:EOLhyphen"/>lic, is the only inducement to this publication, which is intended not only to aſſiſt thoſe who have been lately made, and ſtill remain ignorant of the true foundation of the Art, but alſo to give all that have an inclination to become Maſons an opportunity of conſidering the advantages and diſadvantages of the engagements and oaths by which they are bound.— Such is the intention of this undertaking; and the Editor flatters himſelf the Brotherhood will not con<g ref="char:EOLhyphen"/>demn his officiouſneſs in this reſpect, as it will rather ſtrengthen than hurt the intereſt of the ſociety; the fear of going through the ceremony, which hitherto has been repreſented in ſuch frightful ſhapes, being the greateſt obſtacle to its future welfare and increaſe.</p>
             <p>The Editor's ambition is to pleaſe; and the work is ſubmitted to the only proper judges, viz. his Bre<g ref="char:EOLhyphen"/>thren the FREE MASONS; to whom he begs leave to declare, that no private or public quarrel, the view of gain, nor any other motive than the public good could ever have induced him to write upon this ſub<g ref="char:EOLhyphen"/>ject; and he declares to the world, that the following is the whole of true MASONRY in all its branches.</p>
             <p>
-               <pb facs="tcp:031147_0005_0FEAE292FB7004C8"/>
+               <pb facs="unknown:031147_0005_0FEAE292FB7004C8"/>
 SINCE the former edition of this pamphlet was put to preſs the author has received from his publiſher ſeveral annony<g ref="char:EOLhyphen"/>mous letters, containing the loweſt abuſe and ſcurrilous invec<g ref="char:EOLhyphen"/>tives; nay, ſome have proceeded ſo far as to threaten his per<g ref="char:EOLhyphen"/>ſon. He requeſts the favour of all enraged brethren, who ſhall chuſe to diſplay their talents for the future, that they will be ſo kind as to pay the poſtage of their letters, for there can be no reaſon why he ſhould put up with their ill treatment, and pay the piper into the bargain. Surely there muſt be ſomething in this book very extraordinary; a ſomething they cannot digeſt, thus to excite the wrath and ire of thoſe hot brained Maſon-bit gentry! But however unwiling the Editor may be to publiſh <hi>all</hi> the letters and meſſages he has received on this occaſion, yet he cannot be ſo deficient in returning the compliment, as to con<g ref="char:EOLhyphen"/>ceal one, which notwithſtanding the threatenings contained in it, appears to be wrote with very little meaning, and he has (ſans ceremonie) ventured to publiſh it verbatim.</p>
             <floatingText type="letter" xml:lang="eng">
                <body>
@@ -195,7 +197,7 @@ SINCE the former edition of this pamphlet was put to preſs the author has recei
                <item>5. The 24 Inch Gauge, to meaſure Maſon's work.</item>
                <item>6. The Key, the Treaſurer's emblem.</item>
                <item>
-                  <pb facs="tcp:031147_0006_0FEAE294B58147E8"/>
+                  <pb facs="unknown:031147_0006_0FEAE294B58147E8"/>
 7. The Sword, preſented to the naked left breaſt of the Ap<g ref="char:EOLhyphen"/>prentice.</item>
                <item>8. The Cable, or Rope, put round the neck of every new-made Maſon at the time of making.</item>
                <item>9. The Trowel, an inſtrument of great uſe among Maſons.</item>
@@ -227,14 +229,14 @@ SINCE the former edition of this pamphlet was put to preſs the author has recei
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:031147_0007_0FEAE29675EA4AB8"/>
+            <pb facs="unknown:031147_0007_0FEAE29675EA4AB8"/>
             <head>AN AUTHENTIC KEY TO THE DOOR OF FREE-MASONRY.</head>
             <p>THE origin <note n="*" place="bottom">The rife of this ſcience (ſays a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> original record) was before the flood in the 4th chapter of Geneſis it is ſaid, there was a man named <hi>Lamech</hi> who had two wives named <hi>Adah</hi> and <hi>Zillah;</hi> by <hi>Adah</hi> he begat two ſons. <hi>Jubal</hi> and <hi>Jubal:</hi> by <hi>Zillah</hi> be begat one ſon. called <hi>Tubal Cain,</hi> and a daughter named <hi>Naamah.</hi> Theſe children found out the beginning of all the Crafts in the world; <hi>Jubal</hi> found out Geometry; he divided flocks of ſheep, and built the firſt houſe of timber and ſtone. <hi>Jubal</hi> found out the art of Muſic, and was the father of all thoſe who handled the harp. <hi>Tubal Cain</hi> was the inſtructor of all artificers in iron and braſs; and his daughter diſcovered the Craft of Weaving.</note> of the ſociety called Free-Maſons is ſaid by ſome to have been a certain number of perſons who formed a reſolution to rebuild the Temple of <hi>Solomon</hi>
                <note n="†" place="bottom">By an old record it appears, that king <hi>Solomon</hi> confirmed all the charges which king <hi>David</hi> had given to Maſons in <hi>Jeruſalem;</hi> and that the Temple was finiſhed A. M. 3000. In the year 43. after <hi>Chriſt,</hi> Maſons firſt came into <hi>England</hi> and built the Monaſtery of <hi>Glaſtonbury</hi> in <hi>Somerſetſhire.</hi>
                </note>. This appears from the lecture, or rather hiſtory, of the Order, at the mak<g ref="char:EOLhyphen"/>ing or raiſing of a member to the degree of Maſter, which is fully deſcribed in the following work. But I am inclined to
-<pb facs="tcp:031147_0008_0FEAE29B1754F620"/>think that the chief deſign of the eſtabliſhment is to rectify the heart, inform the mind, and promote the moral and ſocial virtues of humanity, decency, and good order, as much <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb facs="unknown:031147_0008_0FEAE29B1754F620"/>think that the chief deſign of the eſtabliſhment is to rectify the heart, inform the mind, and promote the moral and ſocial virtues of humanity, decency, and good order, as much <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> poſſible in the world: and ſome of the emblems of Free-Maſons confirm this opinion, ſuch as the Compaſs, Rule, Square, &amp;c.</p>
             <p>In all countries where Maſonry is practiſed, or eſtabliſhed at this time, there is a Grand Maſter; but formerly there was only one Grand Maſter, and he was an <hi>Engliſhman.</hi> HIS ROYAL HICHNESS GEORCE PRINCE OF WALES is the perſon on whom the dignity is now beſtowed, who governs all the Lodges in <hi>Great-Britain,</hi> and has the power of delivering the conſtitutions and laws of the ſociety to the Maſters who preſide over the ſubordinate aſſemblies: which conſtitutions muſt always be ſigned by the Grand Secretary of the Order.—The Grand Maſter can hold a Meeting or Lodge when he thinks proper, which is generally the ſecond <hi>Saturday</hi> in every month in the ſummer, but oftener in the winter.</p>
@@ -242,7 +244,7 @@ SINCE the former edition of this pamphlet was put to preſs the author has recei
             <p>There are alſo quarterly communications or meetings, held, at which are preſent the Maſter and Wardens of every re<g ref="char:EOLhyphen"/>gular conſtitution in and near <hi>London,</hi> where the ſeveral Lodges ſend, by the ſaid Wardens, different ſums of money to be paid into the hands of the Treaſurer-General, and ap<g ref="char:EOLhyphen"/>propriated to ſuch charitable uſes as the Grand Maſter, and the Maſters of the different Lodges under him, think proper; but theſe charities are chiefly confined to Maſons only. Such as have good recommendations as to their behaviour and cha<g ref="char:EOLhyphen"/>racter, will be aſſiſted with five, ten, or twenty pounds; and lefs ſums are diſtributed to the indigent brethren, in pro<g ref="char:EOLhyphen"/>portion to their wants, and the number of years they have been members. At theſe quarterly communications, large ſums are likewiſe ſent from Lodges in the moſt remote parts of the world, viz. in the <hi>Eaſt</hi> and <hi>Weſt-Indies.</hi> and accounts tranſmitted of the growth of Maſonry there. The ſtate of the funds of the ſociety are likewiſe communicated to the company, and the deliberations of the meeting taken down by the Secretary, who lays them before the Grand Maſter at the yearly meeting.</p>
             <p>The number of members which compoſe a Lodge is inde<g ref="char:EOLhyphen"/>terminate: but it is no Lodge except there are preſent one Maſter, three Fellow Crafts, and two Apprentices.</p>
             <p>
-               <pb facs="tcp:031147_0009_0FEAE29E2BFA06B0"/>
+               <pb facs="unknown:031147_0009_0FEAE29E2BFA06B0"/>
 When a Lodge is met, there are two principal officers un<g ref="char:EOLhyphen"/>der the Maſter, called Senior and Junior Wardens, whoſe buſineſs it is to ſee the laws of the ſociety ſtrictly adhered to, and the word of command given by the Grand Maſter, regu<g ref="char:EOLhyphen"/>larly followed.</p>
             <p>It muſt be remarked, that the authority of a Maſter, though chief of the Lodge, reach <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -252,7 +254,7 @@ When a Lodge is met, there are two principal officers un<g ref="char:EOLhyphen"/
             <p>The evening being come when a Lodge is to be held, which generally begins about ſeven in the winter, and nine in the ſummer, as previous notices are ſent to the members for this purpoſe; the Maſons are punctual to time, and it frequently happens, that, in half an hour, the whole Lodge, to the number of fifty or ſixty, are aſſembled.</p>
             <p>The Maſter, the two Aſſiſtants, Secretary, and Treaſurer, begin with putting over their necks a blue ribbon of a trian<g ref="char:EOLhyphen"/>gular ſhape; to the Maſter's ribbon hangs a Rule and Compaſs, which is in ſome Lodges made of gold, though in others only gilt: the Aſſiſtants, Senior Wardens, and the other officers, carry the Compaſs alone.</p>
             <p>The candles are placed upon the table in the form of a triangle; and in the beſt Lodges the candleſticks are finely carved with emblematical figures. Every Brother has an apron made of white ſkin, and the ſtrings are alſo of ſkin; though ſome of them chuſe to ornament them with ribbons
-<pb n="4" facs="tcp:031147_0010_0FEAE2A149606FB8"/>of various colours. On the grand days, ſuch as quarterly communications, or general meetings, the grand officers aprons are finely decorated, and they carry the Rule and Compaſs, the emblems of the Order.</p>
+<pb n="4" facs="unknown:031147_0010_0FEAE2A149606FB8"/>of various colours. On the grand days, ſuch as quarterly communications, or general meetings, the grand officers aprons are finely decorated, and they carry the Rule and Compaſs, the emblems of the Order.</p>
             <p>When they ſit down to the table, the Maſter's place is on the eaſt ſide, the bible being opened before him, with the Compaſs laid thereon, and the points of them covered with a lignum vitae or box Square; and the Senior and Junior Wardens oppoſite to him on the weſt and ſouth. On the table is likewiſe wine, punch, &amp;c. to regale the Brethren, who take their places according to their ſeniority. Being thus ſeated, after a few minutes, the Maſter proceeds to<note n="*" place="bottom">
                   <hi>To open a Lodge,</hi> in Maſonry, ſignifies that it is allowed to ſpeak freely among one another of the myſteries of the Order</note> 
                <hi>open the Lodge</hi> in the following manner:</p>
@@ -315,7 +317,7 @@ When a Lodge is met, there are two principal officers un<g ref="char:EOLhyphen"/
                <p>In the ſouth.</p>
             </sp>
             <sp>
-               <pb n="5" facs="tcp:031147_0011_0FEAE87B016FE3B0"/>
+               <pb n="5" facs="unknown:031147_0011_0FEAE87B016FE3B0"/>
                <speaker>Maſter to the Junior Warden.</speaker>
                <p>Why in the ſouth?</p>
             </sp>
@@ -363,7 +365,7 @@ When a Lodge is met, there are two principal officers un<g ref="char:EOLhyphen"/
                <p>This Lodge is open, in the name of holy St. <hi>John,</hi> forbidding all ourſing, ſwearing, or whiſpering, and all prophane diſcourſe whatever, under no leſs penalty than what the majority ſhall think proper.</p>
             </sp>
             <p>The Maſter gives three knocks upon the table with a wooden hammer, and puts on his hat, the Brethren being uncovered; he then aſks, if the gentleman propoſed laſt Lodge-night is ready to be made? and on being anſwered in the affimative, he orders the Wardens to go out and pre<g ref="char:EOLhyphen"/>pare the perſon, who is generally waiting in a room at ſome diſtance from the Lodge room by himſelf, being left there by his friend who propoſed him. He is conducted into ano<g ref="char:EOLhyphen"/>ther room, which is totally dark; and then aſked, Whe<g ref="char:EOLhyphen"/>ther he is conſcious of having the vocation neceſſary to be received? On anſwering yes, he is aſked his name, ſur<g ref="char:EOLhyphen"/>name, and profeſſion. When he has anſwered theſe queſ<g ref="char:EOLhyphen"/>tions, whatever he has about him made of metal is taken away, as buckles, buttons, rings, &amp;c. and even the money in his pocket.<note n="*" place="bottom">In ſome Lodges they are ſo particular, that the candidate's clothes are taken off, if there be lace on them.</note> Then they uncover his right knee, and put his left foot with his ſhoe on into a ſlipper;<note n="†" place="bottom">This is not practiſed in every Lodge; ſome only ſlipping the heel of the ſhoe down.</note> hood<g ref="char:EOLhyphen"/>wink him with a handkerchief, and leave him to his re<g ref="char:EOLhyphen"/>flection
-<pb n="6" facs="tcp:031147_0012_0FEAE87DA020D698"/>for about half an hour. The chamber is alſo guarded within and without by ſome of the Brethren who have drawn ſwords in their hands. The perſon who propoſed the can<g ref="char:EOLhyphen"/>didate ſtays in the room with him: but they are not permitted to converſe together.</p>
+<pb n="6" facs="unknown:031147_0012_0FEAE87DA020D698"/>for about half an hour. The chamber is alſo guarded within and without by ſome of the Brethren who have drawn ſwords in their hands. The perſon who propoſed the can<g ref="char:EOLhyphen"/>didate ſtays in the room with him: but they are not permitted to converſe together.</p>
             <p>During this ſilence, and while the candidate is preparing, the Brethren in the Lodge are putting <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>very thing in order for his reception there; ſuch as drawing the annexed figure on the floor at the upper part of the room; which is ge<g ref="char:EOLhyphen"/>nerally done with chalk and charcoal intermixed; though ſome Lodges uſe tape and little nails to form it; which prevents any mark or ſtain on the floor. It is drawn caſt and weſt. The Maſter ſtands in the eaſt, with the Square hanging at his breaſt, the holy bible opened at the goſpel of St. <hi>John,</hi> and three lighted tapers are placed in the form of a triangle in the midſt of the drawing on the floor.</p>
@@ -391,14 +393,14 @@ When a Lodge is met, there are two principal officers un<g ref="char:EOLhyphen"/
                </item>
             </list>
             <p>
-               <pb facs="tcp:031147_0014_0FEAE883DC434E48"/>
+               <pb facs="unknown:031147_0014_0FEAE883DC434E48"/>
 When this part of the ceremony is ended, the Maſter, who ſtands at the upper end, facing the foot or ſteps of the drawing on the floor, behind a low arm-chair, aſks the following queſtion, Whether you have a deſire to become a Maſon? and if it is of your own free will and choice? Upon which the candidate anſwers, Yes. "Let him ſee the Light." ſays the Maſter: They then take the handkerchief from his eyes, and whilſt they are ſo doing, the Brethren form a circle round him, with their ſwords drawn in their hands, the points of which are preſented to his breaſt. The ornaments borne by the officers, the glittering of the ſwords, and fantaſtic appearance of the Brethren in white aprons, creates great ſurpriſe, eſpecially to a perſon, who for above an hour has been fatigued with the bandage over his eyes; and his uncertainty concerning what is further to be done for his reception, muſt, no doubt, throw his mind into great perplexity.<note n="*" place="bottom">The ancient Maſons made uſe of a prayer inſerted in the Apprentice's Lecture; but the moderns leave it out when they make a Brother.</note>
             </p>
             <p>The candidate is then directed to advance three times to a ſtool at the foot of the arm-chair; he is taught to ſtep in a proper manner by one of the aſſiſtants. Upon the ſtool are placed the rule and compaſs; and one of the Brethren ſays to the candidate to this effect: <q>You are now entering into a reſpectable ſociety, which is more ſerious and important than you imagine. It admits of nothing contrary to law, religion, or morality; nor does it allow any thing inconſiſtent with the allegiance due to his Majeſty; the Worſhipful Grand Maſter will inform you of the reſt<note n="†" place="bottom">It is here to be underſtood, that in different Lodges this ſpeech varies; as alſo do the forms of making, in ſome reſpects, which may be ſeen in the Entered Apprentice's Lecture; where the only proper and ancient method a clearly pounted out.</note>.</q>
             </p>
             <p>As ſoon as the ſpeaker has ended his ſpeech, he is deſired to put his right knee upon the ſtool, which is bare, as men<g ref="char:EOLhyphen"/>tioned above<note n="‡" place="bottom">The ancient cuſtom was thus: The candidate, though kneeling on his right knee, ſhould have his left foot in the air; but this poſition being fa<g ref="char:EOLhyphen"/>tiguing, it is omitted in moſt Lodges.</note>, and his left foot is put into a ſlipper, with the ſhoe on, or the ſhoe ſlipped at the heel, to repreſent a ſlipper.</p>
             <p>The candidate being in this poſture, the Worſhipful Grand Maſter addreſſes him to the following effect: <q>Do you promiſe never to tell, write, or diſcloſe, in any man<g ref="char:EOLhyphen"/>ner whatever, the ſecrets of Free Maſonry and Free Ma<g ref="char:EOLhyphen"/>ſons,
-<pb facs="tcp:031147_0015_0FEAE885D82BED60"/>except to a Brother at the Lodge, and in the preſence of the Worſhipful Grand Maſter?</q> On which the perſon ſays, "I do." His waiſtcoat is then unbuttoned<note n="*" place="bottom">This is done left a woman ſhould offer herſelf. If we believe the <hi>Iriſh.</hi> there is a lady at this time in Ireland, who has gone through the whole cere<g ref="char:EOLhyphen"/>mony, and is as good a Maſon as any of them.</note>, and the point of a pair of compaſſes<note n="†" place="bottom">The ancients uſed a ſword or ſpear inſtead of a compaſs.</note> placed upon his naked left breaſt, and he himſelf holds it with his left hand, his right being laid upon the goſpel opened at St. <hi>John;</hi> when the following oath is adminiſtered to him, he repeating it after the Maſter:</p>
+<pb facs="unknown:031147_0015_0FEAE885D82BED60"/>except to a Brother at the Lodge, and in the preſence of the Worſhipful Grand Maſter?</q> On which the perſon ſays, "I do." His waiſtcoat is then unbuttoned<note n="*" place="bottom">This is done left a woman ſhould offer herſelf. If we believe the <hi>Iriſh.</hi> there is a lady at this time in Ireland, who has gone through the whole cere<g ref="char:EOLhyphen"/>mony, and is as good a Maſon as any of them.</note>, and the point of a pair of compaſſes<note n="†" place="bottom">The ancients uſed a ſword or ſpear inſtead of a compaſs.</note> placed upon his naked left breaſt, and he himſelf holds it with his left hand, his right being laid upon the goſpel opened at St. <hi>John;</hi> when the following oath is adminiſtered to him, he repeating it after the Maſter:</p>
             <q>
                <floatingText xml:lang="eng">
                   <body>
@@ -413,7 +415,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <hi>[He kiſſes the book.]</hi>
             </p>
             <p>The new made member is then taught the Sign, Grip, and Paſs-word of the Entered Apprentice, which will be
-<pb facs="tcp:031147_0016_0FEAE888AD9C8380"/>ſeen more clearly in the following lecture belonging to that part of Maſonry.</p>
+<pb facs="unknown:031147_0016_0FEAE888AD9C8380"/>ſeen more clearly in the following lecture belonging to that part of Maſonry.</p>
             <p>He is alſo learnt th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> ſtep, or how to advance to the Maſter upon the drawing on the floor, which in ſome Lodges reſem<g ref="char:EOLhyphen"/>bles the grand building, termed a Moſaic Palace, and is de<g ref="char:EOLhyphen"/>ſcribed with the utmoſt exactneſs. They alſo draw other figures, one of which is called the Laced Tuft, and the other, the Throne beſet with Stars. There is alſo repreſented a per<g ref="char:EOLhyphen"/>pendicular line in the form of a Maſons' inſtrument, com<g ref="char:EOLhyphen"/>monly called the Plumb-Line; and another figure which repreſents the Tomb of <hi>Hiram,</hi> the firſt Grand Maſter, who has been dead almoſt three thouſand years. Theſe are all explained to him in the moſt accurate manner, and the orna<g ref="char:EOLhyphen"/>ments or emblems of the Order are deſcribed with great fa<g ref="char:EOLhyphen"/>cility. The ceremony being now ended, the new made member is obliged to take a mop out of a pail of water brought for that purpoſe, and rub out the drawing on the floor, if it is done with chalk and charcoal. Then he is con<g ref="char:EOLhyphen"/>ducted back, and every thing that he was d<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -422,7 +424,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
             <p>The Brethren now congratulate the new-made member, and all return to the table to regale themſelves; when the Maſter propoſes a health to the young Brother, which is drank with the greateſt applauſe by the whole body, the new Maſon ſitting all the while. After which he, inſtructed by a Brother, takes a bumper, and drinks <q>To the Wor<g ref="char:EOLhyphen"/>ſhipful Grand Maſter, the Senior and Junior Wardens, the reſt of the Officers and Members of the Lodge, wiſh<g ref="char:EOLhyphen"/>ing them ſucceſs in all their public and private under<g ref="char:EOLhyphen"/>takings, to Maſonry in general, and that Lodge in par<g ref="char:EOLhyphen"/>ticular, craving their aſſiſtance.</q> To which they anſwer, "they will aſſiſt him." And after he has drank, the throws his glaſs from him, and brings it back three times, and then ſets it down on the table, the reſt doing the ſame in exact order. This they call firing: then they clap their hands nine times divided into three, and ſtop between each, keeping true time.</p>
             <p>The reader having been led thus far, it is high time to introduce the Apprentice's Lecture, which is intended not only to amuſe, but likewiſe to inſtruct him in the part he is entered into. The readineſs of many of the Brethren in anſwering the queſtions, adds a luſtre to the Order, the members vying with each other who ſhall moſt contribute to the edification of their new Brother.</p>
             <stage>
-               <pb n="11" facs="tcp:031147_0017_0FEAE88BA7B2A0D0"/>
+               <pb n="11" facs="unknown:031147_0017_0FEAE88BA7B2A0D0"/>
                <hi>The Entered Apprentice's Lecture</hi>
                <note n="*" place="bottom">The Reader is deſired to obſerve, that here I gave the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -562,7 +564,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <p>What was your anſwer?</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0018_0FEAE88E9B33E5D0"/>
+               <pb facs="unknown:031147_0018_0FEAE88E9B33E5D0"/>
                <speaker>Anſ.</speaker>
                <p>I did, but I could ſee nothing.</p>
             </sp>
@@ -635,7 +637,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <p>He ſaid, Who comes there?</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0019_0FEAE891404A4B88"/>
+               <pb facs="unknown:031147_0019_0FEAE891404A4B88"/>
                <speaker>Maſ.</speaker>
                <p>Your anſwer?</p>
             </sp>
@@ -737,7 +739,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <p>The bible to rule and govern our Faith; the ſquare to ſquare our actions; the compaſs to keep us within bounds with all men, particularly with a Brother.</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0020_0FEAE893C4A51640"/>
+               <pb facs="unknown:031147_0020_0FEAE893C4A51640"/>
                <speaker>Maſ.</speaker>
                <p>What were the next things that were ſhewn to you?</p>
             </sp>
@@ -857,7 +859,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <stage>[He draws his right hand acroſs his throat (as as afore<g ref="char:EOLhyphen"/>ſaid) to ſhew the Maſter that he has.]</stage>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0021_0FEAE895619A3BE0"/>
+               <pb facs="unknown:031147_0021_0FEAE895619A3BE0"/>
                <speaker>Maſ.</speaker>
                <p>After this, what was ſaid to you?</p>
             </sp>
@@ -940,7 +942,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <p>Six hours to work in, ſix hours to ſerve God, and ſix to ſerve a friend or a brother, as far as lies in my power, with<g ref="char:EOLhyphen"/>out being detrimental to myſelf or family.</p>
             </sp>
             <p>I come now to the entered apprentice's reaſons; but as the ceremony of drinking healths among the Maſons takes up much of their time, we muſt ſtop a little, in order to in<g ref="char:EOLhyphen"/>troduce
-<pb facs="tcp:031147_0022_0FEAE89B31DE1918"/>ſome of them. The firſt is, <q>To the Heart that conceals, and the tongue that never reveals;" Then "the King and Royal Family;" and, "To all Brethren where<g ref="char:EOLhyphen"/>ſoever diſperſed<note n="*" place="bottom">Theſe toaſts or healths are all drank with three times three, which is per<g ref="char:EOLhyphen"/>formed in a moſt regular manner, and an HUZZA at the end of each, as before deſcribed.</note>.</q> The pleaſures they enjoy, purity of their ſentiments, and the uniformity that always reign in their Aſſemblies, is far from being tireſome or inſipid. I next pro<g ref="char:EOLhyphen"/>ceed to the</p>
+<pb facs="unknown:031147_0022_0FEAE89B31DE1918"/>ſome of them. The firſt is, <q>To the Heart that conceals, and the tongue that never reveals;" Then "the King and Royal Family;" and, "To all Brethren where<g ref="char:EOLhyphen"/>ſoever diſperſed<note n="*" place="bottom">Theſe toaſts or healths are all drank with three times three, which is per<g ref="char:EOLhyphen"/>formed in a moſt regular manner, and an HUZZA at the end of each, as before deſcribed.</note>.</q> The pleaſures they enjoy, purity of their ſentiments, and the uniformity that always reign in their Aſſemblies, is far from being tireſome or inſipid. I next pro<g ref="char:EOLhyphen"/>ceed to the</p>
             <stage>
                <hi>Entered Apprentice's Reaſons</hi>
                <note n="†" place="bottom">This in fact is only a continuation of the lecture.</note>.</stage>
@@ -1017,7 +1019,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <p>Becauſe the left breaſt is the neareſt the heart, that it might be the more a prick to my conſcience, as it pricked my fleſh at that time.</p>
             </sp>
             <sp>
-               <pb n="17" facs="tcp:031147_0023_0FEAE89CD638CC08"/>
+               <pb n="17" facs="unknown:031147_0023_0FEAE89CD638CC08"/>
                <speaker>Maſ.</speaker>
                <p>Why was you led three times round the Lodge?</p>
             </sp>
@@ -1132,7 +1134,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <p>The art of ſpeaking upon any topic whatſoever.</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0024_0FEAE89E623C82D8"/>
+               <pb facs="unknown:031147_0024_0FEAE89E623C82D8"/>
                <speaker>Maſ.</speaker>
                <p>What doth logic teach you?</p>
             </sp>
@@ -1281,7 +1283,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <p>Who doth the Pillar of beauty repreſent?</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0025_0FEAE8A404F79758"/>
+               <pb facs="unknown:031147_0025_0FEAE8A404F79758"/>
                <speaker>Anſ.</speaker>
                <p>The Junior Warden in the South.</p>
             </sp>
@@ -1367,7 +1369,7 @@ When this part of the ceremony is ended, the Maſter, who ſtands at the upper e
                <l>Our Secrets to gain,</l>
                <l>And ſtill let them wonder and gaze on!</l>
                <l>
-                  <pb facs="tcp:031147_0026_0FEAE8A61538F008"/>
+                  <pb facs="unknown:031147_0026_0FEAE8A61538F008"/>
 They ne'er can divine,</l>
                <l>The Word or the Sign</l>
                <l>Of a free and an Accepted Maſon,</l>
@@ -1404,7 +1406,7 @@ They ne'er can divine,</l>
             </stage>
             <p>While this ſong is ſinging, they all ſtand round the table, and when they come to the laſt verſe they join hands croſs<g ref="char:EOLhyphen"/>ways in the following manner: the right hand man takes hold of the left hand of his neighbour with his right hand: and the left hand man takes hold of the right hand of his next Brother with his left hand, ſo as to form a chain by ſo many links, and all join in the chorus, jumping violently with their feet on the floor, and ſhaking their hands up and down, linked together as above, keeping exact time with both.</p>
             <p>Every one now talks of what he pleaſes; and as it is gene<g ref="char:EOLhyphen"/>rally half an hour before they proceed to buſineſs, thoſe who perhaps have ordered a ſupper retire into another room;
-<pb facs="tcp:031147_0027_0FEAE8A94A4CEEB0"/>but before they are permited, the Maſter proceeds <hi>to call the <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb facs="unknown:031147_0027_0FEAE8A94A4CEEB0"/>but before they are permited, the Maſter proceeds <hi>to call the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> off from work,</hi> as it is termed, which is done in this manner: the Maſter whiſpers to the Senior Deacon, who ſits on his right hand, and ſays, "It is high time to call the men from work to refreſh themſelves:" The Senior Deacon whiſpers it to the Senior Warden; and it is communicated from him to the Junior Deacon, who carries it to the Junior Warden; he preclaims it openly to the Lodge, and ſets his column up<g ref="char:EOLhyphen"/>right<note n="*" place="bottom">The Senior and Junior Warden's Columns are about twenty-five inches long, and repreſent the Columns that ſupport the Porch of <hi>Solomon's</hi> Tem<g ref="char:EOLhyphen"/>ple; The Senior's is called JACHIN, and ſignifies <hi>Strength;</hi> the Junior's <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1422,7 +1424,7 @@ They ne'er can divine,</l>
             <p>In this place it will be neceſſary to acquaint the reader how he may diſcover an Entered Apprentice by drinking with him in company. Take the glaſs with your right hand, and draw it acroſs your throat, either before or after you drink; and if an Apprentice is preſent, he will imme<g ref="char:EOLhyphen"/>diately take notice of it, by aſking you ſome queſtion in Maſonry, which you will readily anſwer from this book. If he aſks you the meaning of your doing that, you may whiſper to him, that it is the penalty of the Obligation of an Entered Apprentice. From this anſwer he will proceed farther in his Inquiry.</p>
             <p>The Brethern having now regaled themſelves, they take their ſeats, and the maſter proceeds to ſet them on again, which is performed in the ſame manner as the calling off; with this difference, the Warden proclaims, <q>It is our Worſhipful Maſter's pleaſure that this Lodge is called from refreſhment to work.</q> The Junior Warden lays down his Column, and the Senior ſets his up. But as it often happens, that the time will not permit for the Fellow-Craft's Lecture, they cloſe the Lodge, which is done after the ſame manner as that of opening. The Senior Warden declares it in the following words: <q>It is our Maſter's will and pleaſure, that this Lodge ſtand cloſed till the firſt or third Wedneſday in the next month,</q> according to the night the Lodge is held. Then the Maſter, Wardens, Deacons, Secretary, &amp;c. take off the Enſigns and Orna<g ref="char:EOLhyphen"/>ments from their necks, and every one is at liberty to de<g ref="char:EOLhyphen"/>part or ſtay longer; every thing of Maſonry is excluded; they talk of what they pleaſe, and ſing various ſongs for their amuſement.</p>
             <p>I ſhall now proceed to the ſecond degree of Maſonry, cal<g ref="char:EOLhyphen"/>led the <hi>Fellow-Craft</hi>'s: that is, one who has ſerved his time juſtly and lawfully as an Entered Apprentice, and deſires to
-<pb facs="tcp:031147_0028_0FEAE8AD4F81C5B8"/>
+<pb facs="unknown:031147_0028_0FEAE8AD4F81C5B8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> perfect in Maſonry, by being admitted a Fel<g ref="char:EOLhyphen"/>low-Craft. But in moſt Lodges at this time, they are made entered apprentices and Fellow-Craft the ſame evening. The ceremony is the ſame, though they have different lectures, paſs<g ref="char:EOLhyphen"/>word, and grip belonging to each.</p>
@@ -1547,7 +1549,7 @@ They ne'er can divine,</l>
             <sp>
                <speaker>Anſ.</speaker>
                <p>He taught me to ſhew the Maſter my due guard, and to take two ſteps upon the ſecond ſtep of a right an<g ref="char:EOLhyphen"/>gled oblong ſquare, with my right knee bent bare, my
-<pb facs="tcp:031147_0029_0FEAE8B0F509FCD8"/>left foot forming a ſquare, my body upright, my right hand on the Holy Bible, my let arm ſupported by the points or the compaſſes, forming a ſquare, where I took the obligation of a Fellow-Craft.</p>
+<pb facs="unknown:031147_0029_0FEAE8B0F509FCD8"/>left foot forming a ſquare, my body upright, my right hand on the Holy Bible, my let arm ſupported by the points or the compaſſes, forming a ſquare, where I took the obligation of a Fellow-Craft.</p>
             </sp>
             <sp>
                <speaker>Maſ.</speaker>
@@ -1602,7 +1604,7 @@ They ne'er can divine,</l>
                <p>He took me by the right hand, and gave me the grip and word of a Fellow-Craft, and the paſs grip<note n="†" place="bottom">The Paſs Grip is thus Performed: You muſt put your thumb-nail between the firſt and ſecond joint of the right hand, and whiſper the word SHIBBOLETH. The grip of a Fellow-Craft is by putting the thumb-nail on the ſecond joint of the right hand, and the word is BOAZ.</note>.</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0030_0FEAE8B4C8992C00"/>
+               <pb facs="unknown:031147_0030_0FEAE8B4C8992C00"/>
                <speaker>Maſ.</speaker>
                <p>What did they then to you?</p>
             </sp>
@@ -1747,7 +1749,7 @@ They ne'er can divine,</l>
                <p>Where were they caſt?</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0031_0FEAE8B6CD439588"/>
+               <pb facs="unknown:031147_0031_0FEAE8B6CD439588"/>
                <speaker>Anſ.</speaker>
                <p>On the plain of <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1849,7 +1851,7 @@ They ne'er can divine,</l>
                            <l>Has laſted, and will ever laſt.</l>
                         </lg>
                         <lg>
-                           <pb facs="tcp:031147_0032_0FEAE8BA03215C70"/>
+                           <pb facs="unknown:031147_0032_0FEAE8BA03215C70"/>
                            <l>Then in our ſongs be Juſtice done,</l>
                            <l>To thoſe who have enrich'd the art,</l>
                            <l>From <hi>Jabal</hi> down to <hi>Aberdour</hi>
@@ -1954,7 +1956,7 @@ They ne'er can divine,</l>
                <p>To ſeek for a Lodge of Maſters.</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0033_0FEAE8BC8FC231E8"/>
+               <pb facs="unknown:031147_0033_0FEAE8BC8FC231E8"/>
                <speaker>Maſ.</speaker>
                <p>Then you are a Maſter Maſon, I preſume?</p>
             </sp>
@@ -2075,7 +2077,7 @@ They ne'er can divine,</l>
             <sp>
                <speaker>Anſ.</speaker>
                <p>He inſtructed me as I ſtood in the weſt, <hi>firſt,</hi> To ſhew the Maſter in the eaſt the due guard or ſign of an Entered Apprentice, and take one ſtep upon the firſt ſtep of the right angle of an oblong ſquare, with my left foot
-<pb facs="tcp:031147_0034_0FEAE8BF87684938"/>forming a ſquare. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb facs="unknown:031147_0034_0FEAE8BF87684938"/>forming a ſquare. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -2118,7 +2120,7 @@ They ne'er can divine,</l>
             </sp>
             <stage>[This ſign is given by drawing your right-hand acroſs your belly, which is the penalty of the obligation. then he gives the Maſter the Grip of an Apprentice, who ſays, What's this? The perſon anſwers, the grip of an Entered Apprentice]</stage>
             <sp>
-               <pb facs="tcp:031147_0035_0FEAE8C2AD691388"/>
+               <pb facs="unknown:031147_0035_0FEAE8C2AD691388"/>
                <speaker>Maſ.</speaker>
                <p>Has it got a name?</p>
             </sp>
@@ -2220,7 +2222,7 @@ They ne'er can divine,</l>
                </p>
                <p>"It being always the Cuſtom of <hi>Hiram,</hi> at twelve at noon, as ſoon as the men were called off to refreſh them<g ref="char:EOLhyphen"/>ſelves, to go into the <hi>Sanctum Sanctorum,</hi> or holy of holies, to pay his devotion to the true and living God, the three aſſaſſins above-mentioned placed themſelves at the eaſt, weſt, and ſouth doors of the temple. At the north there was no entrance, becauſe the rays of the ſun never dart from that point.</p>
                <p>"<hi>Hiram,</hi> having finiſhed his prayer to the Lord, came to the eaſt door, which he found guarded by <hi>Jubela,</hi> who demanded the Maſter's grip in a reſolute manner; he re<g ref="char:EOLhyphen"/>ceived for anſwer from <hi>Hiram,</hi> that it was not cuſtomary
-<pb facs="tcp:031147_0036_0FEAE8C5708CF868"/>
+<pb facs="unknown:031147_0036_0FEAE8C5708CF868"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2263,7 +2265,7 @@ They ne'er can divine,</l>
                         </gap>olemn</hi> way of repreſenting the death of <hi>Hiram.</hi> When a Brother comes into the Lodge, in order to be raiſed to the degree of Maſter, one of the members lies flat on his back, with his face disfigured, and be<g ref="char:EOLhyphen"/>ſmeared with blood, on the ſpot where the drawing on the floor is made. His natural ſurprize and confuſion immediately appears, and one of the Bre<g ref="char:EOLhyphen"/>thren generally addreſſes him to the purport following: <q>Brother, be not frightened; this is the unfortunate remains of a worthy Maſter, that would not deliver the grip and word to three Fellow-Crafts, who had no right to it; and from this example we learn our duty. viz. to die before we deliver the Maſter's part of Maſonry to thoſe who have no claim thereto.</q> On kneeling to receive the obligation, the ſuppoſed dead Brother lies behind you, and during the time of adminiſtering the oath, and reading the hiſtory of his death, he gets up, and you are laid down in his place. This is the moſt material Difference between the <hi>French</hi> and <hi>Engliſh</hi> method of making a Maſter Maſon: and that it is more agreeable to humanity th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> giving a man a violent blow on the forehead with a Gavel, muſt be obvious to every reader.</note> or ſetting Maul, which oc<g ref="char:EOLhyphen"/>caſioned his death. After this they carried his body out at the weſt door<note n="†" place="bottom">In this point the Maſons themſelves differ: ſome of them ſay, he was not carried out at the weſt door, but buried on the ſpot where he was killed in this manner: The three aſſaſſins took up part of the pavement, made a hole, and covered him over with ſtones as ſoon as they had cram<g ref="char:EOLhyphen"/>med him in: after which they conveyed the rubbiſh out in their aprons, to prevent ſuſpicion.</note>, and hid it under ſome Rubbiſh till twelve
-<pb facs="tcp:031147_0037_0FEAE8C6FB5A1F50"/>o'Clock the new night, when they met by agreement, and huned him on the ſide of a hill, in a grave ſix feet per<g ref="char:EOLhyphen"/>pendicular, dug due eaſt and weſt.</p>
+<pb facs="unknown:031147_0037_0FEAE8C6FB5A1F50"/>o'Clock the new night, when they met by agreement, and huned him on the ſide of a hill, in a grave ſix feet per<g ref="char:EOLhyphen"/>pendicular, dug due eaſt and weſt.</p>
             </sp>
             <sp>
                <speaker>Maſ.</speaker>
@@ -2285,7 +2287,7 @@ They ne'er can divine,</l>
                      <desc>•••</desc>
                   </gap>lems of their innocence, and in<g ref="char:EOLhyphen"/>forming him of every thing relative to the affair, as far as they knew, and offered their aſſiſtance in order to diſcover the three other Fellow-Crafts, who had abſconded. They ſeparated, and divided themſelves into four parties; three eaſt, weſt, north and ſouth, in queſt of the murderers. As one of the twelve was travelling on the ſea-ſide, near <hi>Joppa,</hi> being fatigued, he ſat down to refreſh himſelf: but was ſoon alarmed by the following hideous exclamations from the cliff of a rock: <q>Oh! that my throat had been cut acroſs, my tongue torn out by the root, and buried in the ſands of the ſea at low-water mark, a cable's length from the ſhore, where the tide ebbs and flows twice in twenty-four hours, e'er I had conſented to the death of our Grand Maſter <hi>Hiram!</hi>"—"Oh! (ſays another) that my heart had been torn from under my naked left breaſt, and given a prey to the vultures of the air, rather than I had been concerned in the death of ſo good a Maſter!" But (ſays a third) I ſtruck him harder than you both; 'twas I that killed him. Oh! that my body had been ſever<g ref="char:EOLhyphen"/>ed in two, and ſcattered to the ſouth and north; my bow<g ref="char:EOLhyphen"/>els burnt to aſhes in the ſouth, and ſcattered between the four winds of the earth, ere I had been the cauſe of the death of our good Maſter <hi>Hiram!</hi>
                   </q> The Fellow-Craft bearing this, went in queſt of his two afs;ſociates, and they entered the cliff of the rock, took and bound them faſt, and brought them to king <hi>Solomon,</hi> before whom they voluntarily confeſſed their guilt, and begged to die. The ſentence paſſed on them was the ſame as they expreſſed in their lamentation in the cliff; <hi>Jubela</hi>'s throat was cut acroſs; <hi>Jubela</hi>'s heart was
-<pb n="32" facs="tcp:031147_0038_0FEAE8C8B9C922F8"/>torn from under his left breaſt; and <hi>Jubelam</hi>'s body was ſever<g ref="char:EOLhyphen"/>ed in two, and ſcattered in the ſouth and north.</p>
+<pb n="32" facs="unknown:031147_0038_0FEAE8C8B9C922F8"/>torn from under his left breaſt; and <hi>Jubelam</hi>'s body was ſever<g ref="char:EOLhyphen"/>ed in two, and ſcattered in the ſouth and north.</p>
                <p>"When the execution was over, king <hi>Solomon</hi> ſent for the twelve Crafts, and deſired them to take the body of <hi>Hiram</hi> up, in order that it might be interred in a ſolemn manner in the <hi>Sanctum Sanctorum;</hi> he alſo told them, that if they could not find a key-word about him, it was loſt; for there were only three in the world to whom it was known; and unleſs they were preſent it could not be delivered, <hi>Hiram</hi> being dead it conſequently was loſt. However, as <hi>Solomon</hi> ordered, they went and cleared the rubbiſh, and found their Maſter in a mangled condition, having lain fifteen days; upon which they lifted up their hands above their heads in aſtoniſhment, and ſaid, <hi>O Lord, my God!</hi> This being the firſt word and ſign, king <hi>Solomon</hi> adopted it as the grand ſign of a Maſter Maſon, and it is uſed at this day in all the Lodges of Maſters.</p>
             </sp>
             <sp>
@@ -2329,7 +2331,7 @@ They ne'er can divine,</l>
                <p>Why ſo, Brother?</p>
             </sp>
             <sp>
-               <pb facs="tcp:031147_0039_0FEAE27C958189F8"/>
+               <pb facs="unknown:031147_0039_0FEAE27C958189F8"/>
                <speaker>Anſ.</speaker>
                <p>Becauſe it ſhould not be polluted.</p>
             </sp>
@@ -2397,7 +2399,7 @@ They ne'er can divine,</l>
             <p>THE year being expired, a proper perſon is fixed on by the Members of every Lodge to preſide over and govern the ſocieties in the capacity of Maſter. The Qualifications for this office are, <hi>1ſt,</hi> that he muſt be regularly and lawfully raiſed: <hi>2dly,</hi> He ought to be a man of good character, and irreproachable in his private conduct: <hi>3dly,</hi> He muſt be well verſed in the laws and conſtitutions of the order, and ought to be temperate, cool, and quite perfect in going through the before-mentioned lectures, as all the queſtions are put by him, and he is often obliged to aſſiſt the brethern in making the proper anſwers<note n="*" place="bottom">I have been in a Lodge, where the Maſter was quite ignorant of the common rules of Grammer; frequently making ſuch egregious blanders, that the Brethern could ſcarce refrain from burſling into Laughter; and often embelliſhing his Queſtions with, <q>Brether you have <hi>let a body know as how</hi> you cannot be raiſed but by the five points of fellowſhip, &amp;c <hi>tell us which they be.</hi>
                   </q>
                </note>; for every Maſon ſitting round the table anſwers in his turn, in the ſame manner as boys at church ſaying the catechiſm. This is termed <hi>Working.</hi> For Inſtance;
-<pb facs="tcp:031147_0040_0FEAE8CC4B1DCF58"/>Suppoſe a Brother meets another, and aſks him if he was at his Lodge laſt night? He ſays, yes. Well, replied the other, <hi>did you work?</hi> that is, did you go through the ſeveral queſ<g ref="char:EOLhyphen"/>tions and anſwers in any of the lectures?—If any member cannot, or does not chuſe <hi>to work,</hi> when the queſtion is put, and it comes to his turn, he gets up, and clapping his hand on his breaſt, addreſſes himſelf to the Maſter, and begs to be excuſed; then the left hand man anſwers in his room.</p>
+<pb facs="unknown:031147_0040_0FEAE8CC4B1DCF58"/>Suppoſe a Brother meets another, and aſks him if he was at his Lodge laſt night? He ſays, yes. Well, replied the other, <hi>did you work?</hi> that is, did you go through the ſeveral queſ<g ref="char:EOLhyphen"/>tions and anſwers in any of the lectures?—If any member cannot, or does not chuſe <hi>to work,</hi> when the queſtion is put, and it comes to his turn, he gets up, and clapping his hand on his breaſt, addreſſes himſelf to the Maſter, and begs to be excuſed; then the left hand man anſwers in his room.</p>
             <p>The Brethren having choſe a proper man for this office, and he being approved of by the Grand Maſter, they proceed to the inſtalling him as follows: he kneels down in the ſouth part of the Lodge, and the la<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e Maſter gives him the following obligation before he reſigns the chair, which he repeats:</p>
@@ -2413,7 +2415,7 @@ They ne'er can divine,</l>
             </p>
             <p>The Paſt Maſter raiſes him up, and takes off the jewels and ribbon from his own neck, and puts it on the new Maſter, taking him at the ſame time by the Maſter's grip, and whiſper<g ref="char:EOLhyphen"/>ing in his ear the word CHIBBELUM<note n="*" place="bottom">CHIBBELUM ſignifies a worthy Maſon. The origin of the words and ſigns among Free Maſons was on this account: <hi>Haram</hi> the chief archi<g ref="char:EOLhyphen"/>tect of the temple, had ſo great a number of workmen to pay, that he could not poſſibly know them all; he therefore gave each degree or claſs, a particular ſign and word, by which he could diſtinguiſh them more readily in order to pay them their different ſalaries.</note>; after which he ſlips his hand from the Maſter's grip to the elbow, and preſſes his nails in, as is done in the grip of the Maſter under the wriſt.</p>
             <p>
-               <pb facs="tcp:031147_0041_0FEAE8D4EB07AFA0"/>
+               <pb facs="unknown:031147_0041_0FEAE8D4EB07AFA0"/>
 The Senior and Junior Warden, Secretary, &amp;c. receive the obligation as the maſter, except the grip and word; there being none peculiar to them.</p>
             <p>Having now gone through the ſeveral degrees and lectures belonging to the Entered Apprentice, Fellow-Craft, Maſter, and the manner of inſtalment, I ſhall cloſe the work with a few general directions, dividing them under the following heads:</p>
             <p n="1">I. <hi>A deſcription of the ornaments worn by the different effects when aſſembled in the Lodge, and their proper places of ſitting.</hi>
@@ -2439,7 +2441,7 @@ The Senior and Junior Warden, Secretary, &amp;c. receive the obligation as the m
             <p>
                <hi>The paſs-word</hi> is TUBAL-CAIN.</p>
             <p>
-               <pb facs="tcp:031147_0042_0FEAE8D67AFF2E10"/>
+               <pb facs="unknown:031147_0042_0FEAE8D67AFF2E10"/>
                <hi>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -2481,7 +2483,7 @@ The Senior and Junior Warden, Secretary, &amp;c. receive the obligation as the m
             <p n="3">III. <hi>The form obſerved in drinking.</hi>
             </p>
             <p>The table being plentifully ſtored with wine and punch, &amp;c. every man his a glaſs ſet before him, and fills it with
-<pb facs="tcp:031147_0043_0FEAE8D9B7A8D338"/>what he chooſes, and as often as he pleaſes. But he <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb facs="unknown:031147_0043_0FEAE8D9B7A8D338"/>what he chooſes, and as often as he pleaſes. But he <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> drink his glaſs in turn, or at leaſt keep the motion with the reſt. When therefore a public health is given, the Maſter fills firſt, and deſires the Brethern to charge their glaſſes: and when this is ſuppoſed to be done, the Maſter ſays, <hi>Brethern, are you all charged?</hi> The Senior and Junior Wardens anſwer, <hi>We are all charged in the ſouth and weſt.</hi> Then they all ſtand up, and obſerving the Maſter's motion, (like the ſoldier his right hand man) drink their glaſſes off; and if the Maſter propoſes the heath or toaſt with <hi>three times three claps,</hi> they throw the glaſſes with the right hand at full length, bringing them acroſs their throats three times, and making three motions to put them down on the table; at the third they are ſet down, (though perhaps fifty in number) as if it was but one: then raiſing their hands breaſt high, they clap nine times againſt the right, divided into three diviſions, which is termed <hi>Drinking with three times three,</hi> and at the end they give a huzza.</p>
             <p>Having at length gone through my plan, I have nothing further to add than this, that the following is the beſt method for a ſtranger to gain admittance, being what I have often tried in many places, in order to be fully ſatisfied.</p>
@@ -2490,7 +2492,7 @@ The Senior and Junior Warden, Secretary, &amp;c. receive the obligation as the m
             <p>
                <hi>Queſ.</hi> Has it got a name?—You muſt anſwer, "It has." Then he will aſk you to give it him.</p>
             <p>
-               <pb facs="tcp:031147_0044_0FEAE8DD88E655E8"/>
+               <pb facs="unknown:031147_0044_0FEAE8DD88E655E8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
@@ -2516,7 +2518,7 @@ The Senior and Junior Warden, Secretary, &amp;c. receive the obligation as the m
             <p>The Maſter of the lodge, on receiving intelligence of his death, and being made acquainted with the day and hour appointed for his funeral, is to iſſue his commands for ſum<g ref="char:EOLhyphen"/>moning the lodge; and immediately to make application, by the grand Secretaty, to the deputary Grand Maſter, for a legal power and authority to attend the proceſſion, with his officers and ſuch Brethern as he may approve of, properly clothed.</p>
             <p>The diſpenſation being obtained, the Maſter may invite as many Lodges as he thinks proper, and the members of the ſaid Lodges many accompany their officers in form; but the whole ceremony muſt be under the direction of the Maſter of the lodge to which the deceaſed belonged; and he, and his officers muſt be duly honoured and chearfully obeyed on the occaſion.</p>
             <p>
-               <pb facs="tcp:031147_0045_0FEAE8DF14E25FE0"/>
+               <pb facs="unknown:031147_0045_0FEAE8DF14E25FE0"/>
 An the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> who walk in procemon, <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -2528,7 +2530,7 @@ An the <gap reason="illegible" resp="#PDCC" extent="1 word">
             <p>In the proceſſion to the place of interment, the different Lodges rank according to their ſemority; the junior ones preceding. Each Lodge forms one diviſion, and the follow<g ref="char:EOLhyphen"/>ing order is obſerved.</p>
             <p>The Tyler with his ſword; The Stewards with white rods; The Brethren out of office, two and two; The Secretary with a roll; The Treaſurer with his badge of office; Senior and Junior Wardens, hand in hand; The Paſt-Maſter, The Maſter. The Lodge to which the deceaſed Brother belonged, in the following order; all the members having flowers or herbs in their hands. The Tyler; The Stewards; The muſic [drums muffled, and trumpets covered;] The members of the Lodge; The Secretary and Treaſurer; The Senior and Junior Wardens; The Paſt-Maſter. The bible and book of conſtitutions on a cuſhion, covered with black cloth, carried by a member of the Lodge: The MASTER. The Choriſters ſinging an anthem. The Clergyman: Pall bearers, The BODY, with the regalia plac<g ref="char:EOLhyphen"/>ed thereon, and two ſwords croſſed. Pall bearers, Chief Mourner; Aſſiſtant Mourners; Two Stewards; A Tyler.</p>
             <p>
-               <pb facs="tcp:031147_0046_0FEAE8E508274BA8"/>
+               <pb facs="unknown:031147_0046_0FEAE8E508274BA8"/>
 One or two Lodges <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>ch, before the proceſſion begans to the church-yard, to prevent confuſion, and make the neceſ<g ref="char:EOLhyphen"/>ſary preparations. The Brethren are on no account to deſert then ranks or change their places, but keep in their different departments. When the proceſſion arrives at the g<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2573,7 +2575,7 @@ One or two Lodges <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <l>And ſenſe and ſcience join'd, go hand in hand.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:031147_0047_0FEAE8E6D73B3460"/>
+                  <pb facs="unknown:031147_0047_0FEAE8E6D73B3460"/>
                   <l>O may her ſocial rules inſtructive ſpread,</l>
                   <l>Till Truth er<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2636,7 +2638,7 @@ One or two Lodges <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <l>Direct us to that happy place,</l>
                   <l>Where friendſhip ſmiles on every face,</l>
                   <l>
-                     <pb facs="tcp:031147_0048_0FEAE8E8C6748AC8"/>
+                     <pb facs="unknown:031147_0048_0FEAE8E8C6748AC8"/>
 Where Freedom and ſweet innocence</l>
                   <l>Enlarge the mind and cheer the ſenſe.</l>
                </lg>
@@ -2708,7 +2710,7 @@ Where Freedom and ſweet innocence</l>
                      </gap>.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:031147_0049_0FEAE8EE3A61ADC0"/>
+                  <pb facs="unknown:031147_0049_0FEAE8EE3A61ADC0"/>
                   <l>The ſolemn Temple's cloud-capt Towers,</l>
                   <l>T' aſpiring domes are works of ours,</l>
                   <l>By us thoſe piles were rais'd:</l>
@@ -2771,7 +2773,7 @@ Where Freedom and ſweet innocence</l>
                   <l>Hail, myſterious, &amp;c.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:031147_0050_0FEAE8EFCA66A0D0"/>
+                  <pb facs="unknown:031147_0050_0FEAE8EFCA66A0D0"/>
                   <l>Our actions ſtill by virtue bleſt,</l>
                   <l>And to our precepts ever true,</l>
                   <l>The world admiring, admiring ſhall requeſt</l>
@@ -2825,7 +2827,7 @@ Where Freedom and ſweet innocence</l>
                   <l>Nor break the adamantine chain.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:031147_0051_0FEAE8F2A9ABA210"/>
+                  <pb facs="unknown:031147_0051_0FEAE8F2A9ABA210"/>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 line">
                         <desc>〈1 line〉</desc>
@@ -2885,7 +2887,7 @@ Where Freedom and ſweet innocence</l>
                   <l>And feeds on wretched fare.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:031147_0052_0FEAE8F613C50900"/>
+                  <pb facs="unknown:031147_0052_0FEAE8F613C50900"/>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 line">
                         <desc>〈1 line〉</desc>
@@ -2936,7 +2938,7 @@ Where Freedom and ſweet innocence</l>
                </lg>
             </div>
             <div n="6" type="song">
-               <pb facs="tcp:031147_0053_0FEAE8FB12094770"/>
+               <pb facs="unknown:031147_0053_0FEAE8FB12094770"/>
                <head>SONG VI.</head>
                <head type="sub">KATE AND NED.</head>
                <lg>
@@ -2991,7 +2993,7 @@ Where Freedom and ſweet innocence</l>
                </lg>
             </div>
             <div n="7" type="song">
-               <pb facs="tcp:031147_0054_0FEAE8FCA11131D8"/>
+               <pb facs="unknown:031147_0054_0FEAE8FCA11131D8"/>
                <head>SONG VII.</head>
                <opener>[<hi>Tune,</hi> God ſave the King.]</opener>
                <lg>
@@ -3043,7 +3045,7 @@ Where Freedom and ſweet innocence</l>
                </lg>
             </div>
             <div type="ode">
-               <pb facs="tcp:031147_0055_0FEAE9012ED70EF0"/>
+               <pb facs="unknown:031147_0055_0FEAE9012ED70EF0"/>
                <head>
                   <hi>New</hi> ODE, <hi>written by a member of the</hi> ALFRED LODGE, <hi>at</hi> Oxford, <hi>and ſet to muſic by Dr.</hi> Fiſher, <hi>and performed at the dedication of</hi> Free-Maſons Hall.</head>
                <byline>
@@ -3127,7 +3129,7 @@ Where Freedom and ſweet innocence</l>
                      </sp>
                   </div>
                   <div type="air">
-                     <pb facs="tcp:031147_0056_0FEAE902E5EE4BF0"/>
+                     <pb facs="unknown:031147_0056_0FEAE902E5EE4BF0"/>
                      <head>AIR.</head>
                      <sp>
                         <speaker>REINHOLD.</speaker>
@@ -3249,7 +3251,7 @@ Where Freedom and ſweet innocence</l>
                </div>
             </div>
             <div n="8" type="song">
-               <pb facs="tcp:031147_0057_0FEAE9052CD5BCC8"/>
+               <pb facs="unknown:031147_0057_0FEAE9052CD5BCC8"/>
                <head>
                   <hi>SONG VIII.</hi> The Maſter's ſong.</head>
                <lg>
@@ -3314,7 +3316,7 @@ Where Freedom and ſweet innocence</l>
                   <l>To be admir'd too much, and then</l>
                   <l>Diſperſed were the ſons of men.</l>
                   <l>
-                     <pb facs="tcp:031147_0058_0FEAE277CE7687A8"/>
+                     <pb facs="unknown:031147_0058_0FEAE277CE7687A8"/>
 But though their tongues confus'd</l>
                   <l>In diſtant climes they u<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -3377,7 +3379,7 @@ But though their tongues confus'd</l>
                   </l>
                   <l>Each thankful Brother ſings,</l>
                   <l>
-                     <pb facs="tcp:031147_0059_0FEAE907879E7850"/>
+                     <pb facs="unknown:031147_0059_0FEAE907879E7850"/>
 The uſeful ſkill: for form the temple fine</l>
                   <l>To ev'ry land.</l>
                   <l>And foreign ſtrand,</l>
@@ -3438,7 +3440,7 @@ The uſeful ſkill: for form the temple fine</l>
                   <l>Till <hi>Roman</hi> ſtyle revived there,</l>
                   <l>And <hi>Britiſh</hi> crowns united were</l>
                   <l>
-                     <pb facs="tcp:031147_0060_0FEAE909E9A05388"/>
+                     <pb facs="unknown:031147_0060_0FEAE909E9A05388"/>
 Fine heaps of ſtones</l>
                   <l>By <hi>Inigo Jowes,</hi>
                   </l>
@@ -3492,7 +3494,7 @@ Fine heaps of ſtones</l>
             </div>
          </div>
          <div type="toasts">
-            <pb facs="tcp:031147_0061_0FEAE90CC16F91A8"/>
+            <pb facs="unknown:031147_0061_0FEAE90CC16F91A8"/>
             <head>FOR THE SOCIETY OF FREE MASONS.</head>
             <list>
                <item>TO the king and the Craft.</item>
@@ -3528,7 +3530,7 @@ Fine heaps of ſtones</l>
                <item>Who ſaw the eaſt where roſe the light.</item>
                <item>To the increaſe of perpetual friendſhip and peace among the ancient Craft.</item>
                <item>
-                  <pb facs="tcp:031147_0062_0FEAE90FC99E3820"/>
+                  <pb facs="unknown:031147_0062_0FEAE90FC99E3820"/>
 To each chuming fare and faithful ſhe,</item>
                <item>Who loves the craft of Maſonry.</item>
                <item>To each faithful Brother both ancient and young,</item>
@@ -3557,7 +3559,7 @@ To each chuming fare and faithful ſhe,</item>
                <item>May every ſociety inſtituted for the promotion of virtue flou<g ref="char:EOLhyphen"/>riſh.</item>
                <item>May concord, peace, and harmony ſubſiſt in all regular Lodges and always diſtinguiſh the fraternity of Free Maſons.</item>
                <item>
-                  <pb facs="tcp:031147_0063_0FEAE91151B059D0"/>
+                  <pb facs="unknown:031147_0063_0FEAE91151B059D0"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> upon the ſquare.</item>
@@ -3589,7 +3591,7 @@ To each chuming fare and faithful ſhe,</item>
                <item>May honour and honeſty diſtinguiſh the Brethren.</item>
                <item>The humble beggar.</item>
                <item>
-                  <pb facs="tcp:031147_0064_0FEAE9133452D238"/>
+                  <pb facs="unknown:031147_0064_0FEAE9133452D238"/>
 May all Free Maſons live in love, and die in peace.</item>
                <item>To Maſonry, friendſhip, and love.</item>
                <item>The heart which conceals,</item>
